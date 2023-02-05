@@ -4,6 +4,8 @@ import (
 	"github.com/basegin/base/log"
 	"github.com/basegin/config"
 	"github.com/gin-gonic/gin"
+	"path/filepath"
+	"runtime"
 )
 
 func Bootstrap(router *gin.Engine) {
@@ -12,7 +14,9 @@ func Bootstrap(router *gin.Engine) {
 
 	// trace init
 	log.InitTracer()
-	err := config.LoadConfig("/Users/liyanan/go/src/github.com/basegin/config/config.yaml")
+	_, filename, _, _ := runtime.Caller(0)
+	projectRoot := filepath.Dir(filepath.Dir(filename))
+	err := config.LoadConfig(projectRoot + "/config/config.yaml")
 	if err != nil {
 		log.ErrorLogger(nil, err)
 		return

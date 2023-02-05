@@ -11,7 +11,7 @@ type TConf struct {
 	LogLevel string `yaml:"loglevel"`
 	Redis    struct {
 		Addr string `yaml:"addr"`
-	}
+	} `yaml:"redis"`
 	Mysql struct {
 		Addr         string `yaml:"addr"`
 		User         string `yaml:"user"`
@@ -20,24 +20,21 @@ type TConf struct {
 		MaxIdleConns int    `yaml:"maxidleconns"`
 		MaxOpenConns int    `yaml:"maxopenconns"`
 	} `yaml:"mysql"`
-	Port string
+	Port string `yaml:"port"`
 	Nsq  struct {
 		Addr        string `yaml:"addr"`
 		MaxAttempts uint16 `yaml:"maxAttempts"`
-	}
-	Task struct {
-		StationTaskCron   string `yaml:"stationTaskCron"`
-		EmptyOffTaskCron  string `yaml:"emptyOffTaskCron"`
-		InvertBoxTaskCron string `yaml:"invertBoxTaskCron"`
-	}
+	} `yaml:"nsq"`
+
 	Elastic struct {
 		Addr string
 		User string
 		Pass string
-	}
+	} `yaml:"elastic"`
 }
 
 var Conf TConf
+var ChangeConfig chan bool
 
 // LoadConfig loads the configuration from file and environment variables
 func LoadConfig(configFile string) (err error) {
@@ -55,12 +52,15 @@ func LoadConfig(configFile string) (err error) {
 	}
 
 	//监听配置文件变化，默认每5s监听一次
+	ChangeConfig = make(chan bool)
 	viper.WatchConfig()
 	viper.OnConfigChange(func(e fsnotify.Event) {
 		fmt.Println("配置文件发生变化：", e.Name)
 		if err = viper.Unmarshal(&Conf); err != nil {
 			fmt.Printf("配置文件变更失败：%s", err)
 		}
+		ChangeConfig <- true
+		fmt.Printf("config:%+v", Conf)
 	})
 
 	//tick := time.Tick(time.Duration(10) * time.Second)

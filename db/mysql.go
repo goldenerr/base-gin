@@ -11,6 +11,10 @@ var MysqlClient *gorm.DB
 
 func InitMysql() {
 	var err error
+	var logMode bool
+	if config.Conf.LogLevel == "debug" {
+		logMode = true
+	}
 	MysqlClient, err = InitMysqlClient(MysqlConf{
 		User:            config.Conf.Mysql.User,
 		Password:        config.Conf.Mysql.PassWord,
@@ -19,9 +23,22 @@ func InitMysql() {
 		MaxIdleConns:    config.Conf.Mysql.MaxIdleConns,
 		MaxOpenConns:    config.Conf.Mysql.MaxOpenConns,
 		ConnMaxLifeTime: 3600 * time.Second,
-		LogMode:         true,
+		LogMode:         logMode,
 	})
 	if err != nil {
 		log.PanicfLogger(nil, "mysql connect error: %v", err)
 	}
+
+	ConfigChange()
+}
+
+func ConfigChange() {
+	go func() {
+		for {
+			select {
+			case <-config.ChangeConfig:
+				InitMysql()
+			}
+		}
+	}()
 }
