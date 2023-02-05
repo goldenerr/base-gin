@@ -1,0 +1,334 @@
+{"level":"info","msg":"tracer1111:%v71d34da845faaa3d:71d34da845faaa3d:0000000000000000:1","requestId":"","time":"2023-02-03 15:57:09"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":22,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"71d34da845faaa3d:71d34da845faaa3d:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 15:57:09","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v2d4a8d2da2237df2:2d4a8d2da2237df2:0000000000000000:1","requestId":"","time":"2023-02-03 16:01:34"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":8,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"2d4a8d2da2237df2:2d4a8d2da2237df2:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:01:34","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+
+
+
+
+{"level":"info","msg":"tracer1111:%v34a4aacb5eae5d79:34a4aacb5eae5d79:0000000000000000:1","requestId":"","time":"2023-02-03 16:02:08"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":10,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"34a4aacb5eae5d79:34a4aacb5eae5d79:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:02:08","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v3272750d474a1215:3272750d474a1215:0000000000000000:1","requestId":"","time":"2023-02-03 16:03:16"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":11,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3272750d474a1215:3272750d474a1215:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:03:16","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v1b01168d1b3b60cb:1b01168d1b3b60cb:0000000000000000:1","requestId":"","time":"2023-02-03 16:05:02"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":11,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"1b01168d1b3b60cb:1b01168d1b3b60cb:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:05:02","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+
+
+
+{"level":"info","msg":"tracer1111:%v34ac8c0783df6d60:34ac8c0783df6d60:0000000000000000:1","requestId":"","time":"2023-02-03 16:10:06"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":7,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"34ac8c0783df6d60:34ac8c0783df6d60:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:10:06","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+
+{"level":"info","msg":"tracer1111:%v041c2141b520fe3c:041c2141b520fe3c:0000000000000000:1","requestId":"","time":"2023-02-03 16:29:01"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":24,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"041c2141b520fe3c:041c2141b520fe3c:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:29:01","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v4530b68462fe3178:4530b68462fe3178:0000000000000000:1","requestId":"","time":"2023-02-03 16:37:17"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":7,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"4530b68462fe3178:4530b68462fe3178:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:37:17","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"info[info] registering callback `tracer:create_before` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:103","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:create_after` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:106","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:delete_before` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:124","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:delete_after` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:127","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:update_before` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:117","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:update_after` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:120","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:query_before` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:110","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:query_after` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:113","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:row_query_before` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:131","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"info[info] registering callback `tracer:row_query_after` from /Users/liyanan/go/src/github.com/basegin/db/init_mysql.go:134","time":"2023-02-03 16:41:25"}
+{"level":"info","msg":"tracer1111:%v3a11a73298313546:3a11a73298313546:0000000000000000:1","requestId":"","time":"2023-02-03 16:41:35"}
+{"level":"info","msg":"sql/Users/liyanan/go/src/github.com/basegin/model/config.go:209.311333msSELECT * FROM `config`  WHERE (`key` = ?)[track_threshold] 1","time":"2023-02-03 16:41:35"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":11,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3a11a73298313546:3a11a73298313546:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:41:35","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+
+
+
+{"level":"info","msg":"tracer1111:%v08baaea46159b13b:08baaea46159b13b:0000000000000000:1","requestId":"","time":"2023-02-03 16:42:09"}
+{"level":"info","msg":"sql/Users/liyanan/go/src/github.com/basegin/model/config.go:2019.221917msSELECT * FROM `config`  WHERE (`key` = ?)[track_threshold] 1","time":"2023-02-03 16:42:09"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":20,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"08baaea46159b13b:08baaea46159b13b:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:42:09","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v3b0032e2bf0386b4:3b0032e2bf0386b4:0000000000000000:1","requestId":"","time":"2023-02-03 16:44:12"}
+{"level":"info","msg":"sql/Users/liyanan/go/src/github.com/basegin/model/config.go:2040.84025msSELECT * FROM `config`  WHERE (`key` = ?)[track_threshold] 1","time":"2023-02-03 16:44:12"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":42,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3b0032e2bf0386b4:3b0032e2bf0386b4:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:44:12","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v3a060891e39b62cf:3a060891e39b62cf:0000000000000000:1","requestId":"","time":"2023-02-03 16:44:23"}
+{"level":"info","msg":"sql/Users/liyanan/go/src/github.com/basegin/model/config.go:2011.375584msSELECT * FROM `config`  WHERE (`key` = ?)[track_threshold] 1","time":"2023-02-03 16:44:23"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":13,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3a060891e39b62cf:3a060891e39b62cf:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:44:23","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v6c4550875aff9baf:6c4550875aff9baf:0000000000000000:1","requestId":"","time":"2023-02-03 16:44:28"}
+{"level":"info","msg":"sql/Users/liyanan/go/src/github.com/basegin/model/config.go:205.67875msSELECT * FROM `config`  WHERE (`key` = ?)[track_threshold] 1","time":"2023-02-03 16:44:28"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":7,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"6c4550875aff9baf:6c4550875aff9baf:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:44:28","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v13f34f8c4869f29a:13f34f8c4869f29a:0000000000000000:1","requestId":"","time":"2023-02-03 16:44:37"}
+{"level":"info","msg":"sql/Users/liyanan/go/src/github.com/basegin/model/config.go:2015.913042msSELECT * FROM `config`  WHERE (`key` = ?)[track_threshold] 1","time":"2023-02-03 16:44:37"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":17,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"13f34f8c4869f29a:13f34f8c4869f29a:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 16:44:37","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v3302d81fa3d97fbf:3302d81fa3d97fbf:0000000000000000:1","requestId":"","time":"2023-02-03 17:12:09"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":8,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3302d81fa3d97fbf:3302d81fa3d97fbf:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 17:12:09","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+
+
+{"level":"info","msg":"tracer1111:%v266c2fde0e162e09:266c2fde0e162e09:0000000000000000:1","requestId":"","time":"2023-02-03 17:12:22"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":6,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"266c2fde0e162e09:266c2fde0e162e09:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 17:12:22","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"","time":"2023-02-03 17:13:18"}
+{"level":"info","msg":"tracer1111:%v7c16faf8f74775f9:7c16faf8f74775f9:0000000000000000:1","requestId":"","time":"2023-02-03 17:13:26"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":7.67,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 17:13:26\"}","time":"2023-02-03 17:13:26"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":9,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"7c16faf8f74775f9:7c16faf8f74775f9:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 17:13:26","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+
+
+{"level":"info","msg":"tracer1111:%v29f611eb8f08ae62:29f611eb8f08ae62:0000000000000000:1","requestId":"","time":"2023-02-03 17:13:49"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":51.26,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 17:13:49\"}","time":"2023-02-03 17:13:49"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":52,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"29f611eb8f08ae62:29f611eb8f08ae62:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 17:13:49","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+{"level":"info","msg":"","time":"2023-02-03 17:46:07"}
+
+
+
+
+{"level":"info","msg":"tracer1111:%v3f55baf0480451b4:3f55baf0480451b4:0000000000000000:1","requestId":"","time":"2023-02-03 17:46:21"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":10,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3f55baf0480451b4:3f55baf0480451b4:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 17:46:21","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"","time":"2023-02-03 18:04:03"}
+{"level":"info","msg":"tracer1111:%v5b107345c6daa71f:5b107345c6daa71f:0000000000000000:1","requestId":"","time":"2023-02-03 18:04:10"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":8.83,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:04:10\"}","time":"2023-02-03 18:04:10"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":10,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"5b107345c6daa71f:5b107345c6daa71f:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:04:10","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+
+{"level":"info","msg":"tracer1111:%v09fd6238791397da:09fd6238791397da:0000000000000000:1","requestId":"","time":"2023-02-03 18:04:37"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":6.16,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:04:37\"}","time":"2023-02-03 18:04:37"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":7,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"09fd6238791397da:09fd6238791397da:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:04:37","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"","time":"2023-02-03 18:08:41"}
+{"level":"info","msg":"tracer1111:%v623583509ea2890c:623583509ea2890c:0000000000000000:1","requestId":"","time":"2023-02-03 18:08:51"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":10.23,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:08:51\"}","time":"2023-02-03 18:08:51"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":11,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"623583509ea2890c:623583509ea2890c:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:08:51","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"","time":"2023-02-03 18:09:53"}
+{"level":"info","msg":"tracer1111:%v474b72ff73e6d905:474b72ff73e6d905:0000000000000000:1","requestId":"","time":"2023-02-03 18:10:02"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":12.52,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:10:02\"}","time":"2023-02-03 18:10:02"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":13,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"474b72ff73e6d905:474b72ff73e6d905:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:10:02","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:10"}
+{"level":"info","msg":"tracer1111:%v44a10b52ccb80232:44a10b52ccb80232:0000000000000000:1","requestId":"","time":"2023-02-03 18:11:17"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":29,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"44a10b52ccb80232:44a10b52ccb80232:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:11:17","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"","time":"2023-02-03 18:11:52"}
+{"level":"info","msg":"tracer1111:%v2e504daafc938d4e:2e504daafc938d4e:0000000000000000:1","requestId":"","time":"2023-02-03 18:12:08"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":18.76,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:12:08\"}","time":"2023-02-03 18:12:08"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":20,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"2e504daafc938d4e:2e504daafc938d4e:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:12:08","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"","time":"2023-02-03 18:12:55"}
+{"level":"info","msg":"tracer1111:%v475581d9991dc16a:475581d9991dc16a:0000000000000000:1","requestId":"","time":"2023-02-03 18:12:59"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":40,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"475581d9991dc16a:475581d9991dc16a:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:13:00","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"","time":"2023-02-03 18:14:38"}
+{"level":"info","msg":"tracer1111:%v70a9a13f0e51fee4:70a9a13f0e51fee4:0000000000000000:1","requestId":"","time":"2023-02-03 18:14:43"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":13.9,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:14:43\"}","time":"2023-02-03 18:14:43"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":15,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"70a9a13f0e51fee4:70a9a13f0e51fee4:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:14:43","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:15:17"}
+{"level":"info","msg":"tracer1111:%v57999f3ca19a0642:57999f3ca19a0642:0000000000000000:1","requestId":"","time":"2023-02-03 18:15:28"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":25,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"57999f3ca19a0642:57999f3ca19a0642:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:15:28","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"","time":"2023-02-03 18:31:02"}
+{"level":"info","msg":"tracer1111:%v7a23e29305165008:7a23e29305165008:0000000000000000:1","requestId":"","time":"2023-02-03 18:31:11"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":8.28,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:31:11\"}","time":"2023-02-03 18:31:11"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":10,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"7a23e29305165008:7a23e29305165008:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:31:11","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"","time":"2023-02-03 18:36:40"}
+{"level":"info","msg":"tracer1111:%v016db3a5b1043454:016db3a5b1043454:0000000000000000:1","requestId":"","time":"2023-02-03 18:36:45"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":19.9,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:36:45\"}","time":"2023-02-03 18:36:45"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":21,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"016db3a5b1043454:016db3a5b1043454:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:36:45","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"","time":"2023-02-03 18:39:06"}
+{"level":"info","msg":"tracer1111:%v33c0eaede827c3f7:33c0eaede827c3f7:0000000000000000:1","requestId":"","time":"2023-02-03 18:39:12"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":15.99,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:39:12\"}","time":"2023-02-03 18:39:12"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":17,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"33c0eaede827c3f7:33c0eaede827c3f7:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:39:12","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"","time":"2023-02-03 18:45:29"}
+{"level":"info","msg":"tracer1111:%v6d768aa730f60bbb:6d768aa730f60bbb:0000000000000000:1","requestId":"","time":"2023-02-03 18:45:36"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":8.18,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:45:36\"}","time":"2023-02-03 18:45:36"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":9,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"6d768aa730f60bbb:6d768aa730f60bbb:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:45:36","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"","time":"2023-02-03 18:49:37"}
+{"level":"info","msg":"tracer1111:%v21453a2b584d3d3a:21453a2b584d3d3a:0000000000000000:1","requestId":"","time":"2023-02-03 18:49:47"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":20,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"21453a2b584d3d3a:21453a2b584d3d3a:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:49:47","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"tracer1111:%v78477745dd15bae0:78477745dd15bae0:0000000000000000:1","requestId":"","time":"2023-02-03 18:49:50"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":8,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"78477745dd15bae0:78477745dd15bae0:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:49:50","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"","time":"2023-02-03 18:51:08"}
+{"level":"info","msg":"tracer1111:%v3faf4fb771352f3e:3faf4fb771352f3e:0000000000000000:1","requestId":"","time":"2023-02-03 18:51:16"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":8,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"3faf4fb771352f3e:3faf4fb771352f3e:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:51:16","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"","time":"2023-02-03 18:52:17"}
+{"level":"info","msg":"tracer1111:%v29293573dac35519:29293573dac35519:0000000000000000:1","requestId":"","time":"2023-02-03 18:52:24"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":9,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"29293573dac35519:29293573dac35519:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:52:24","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"","time":"2023-02-03 18:53:22"}
+{"level":"info","msg":"tracer1111:%v6f3e72177dec3e53:6f3e72177dec3e53:0000000000000000:1","requestId":"","time":"2023-02-03 18:53:29"}
+{"clientIp":"127.0.0.1","dataLength":0,"handle":"github.com/basegin/controller.GetConfig","httpCode":500,"latency":7,"level":"info","method":"POST","msg":"null","referer":"","requestBody":"key=track_threshold","requestId":"6f3e72177dec3e53:6f3e72177dec3e53:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:53:29","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"","time":"2023-02-03 18:54:14"}
+{"level":"info","msg":"tracer1111:%v3c1ef77a14c0c135:3c1ef77a14c0c135:0000000000000000:1","requestId":"","time":"2023-02-03 18:54:19"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":6.78,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 18:54:19\"}","time":"2023-02-03 18:54:19"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":8,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"3c1ef77a14c0c135:3c1ef77a14c0c135:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 18:54:19","type":"http","userAgent":"PostmanRuntime/7.30.1"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"","time":"2023-02-03 19:03:20"}
+{"level":"info","msg":"tracer1111:%v348bd7cc1998c59d:348bd7cc1998c59d:0000000000000000:1","requestId":"","time":"2023-02-03 19:03:29"}
+{"level":"info","msg":"{\"affectedrow\":1,\"duration\":6.16,\"level\":\"debug\",\"module\":\"gorm\",\"requestId\":null,\"sql\":\"SELECT * FROM `config`  WHERE (`key` = 'track_threshold')\",\"time\":\"2023-02-03 19:03:29\"}","time":"2023-02-03 19:03:29"}
+{"clientIp":"127.0.0.1","dataLength":83,"handle":"github.com/basegin/controller.GetConfig","httpCode":200,"latency":7,"level":"info","method":"POST","msg":"{\"returnCode\":0,\"returnMsg\":\"succ\",\"returnUserMsg\":\"成功\",\"data\":{\"value\":\"0.8\"}}","referer":"","requestBody":"key=track_threshold","requestId":"348bd7cc1998c59d:348bd7cc1998c59d:0000000000000000:1","requestPath":"/api/getConfig","retCode":0,"time":"2023-02-03 19:03:29","type":"http","userAgent":"PostmanRuntime/7.30.1"}

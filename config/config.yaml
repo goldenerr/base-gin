@@ -1,0 +1,14 @@
+server:
+  host: localhost
+  port: 8080
+database:
+  username: root
+  password: 999
+  name: app_db
+mysql:
+  addr: 127.0.0.1:3306
+  user: root
+  password: rootpassword
+  database: ydktest
+  maxidleconns: 10
+  maxopenconns: 100
